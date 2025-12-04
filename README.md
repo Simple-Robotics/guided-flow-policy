@@ -1,9 +1,11 @@
 <div align="center">
     <div style="margin-bottom: 20px">
-        <h1 style="display: inline;">
+        <!-- <h1 style="display: inline;"> -->
+        <h1>
             Guided Flow Policy</h1>
-        <span style="font-size: 1.4em">
-            &emsp;&emsp;
+        <!-- <span style="font-size: 1.4em"> -->
+        <h2>
+            <!-- &emsp;&emsp; -->
             <a href="https://arxiv.org/abs/2512.03973">
                 ArXiv
             </a>
@@ -11,7 +13,8 @@
             <a href="https://simple-robotics.github.io/publications/guided-flow-policy">
                 Webpage
             </a>
-        </span>
+        </h2>
+        <!-- </span> -->
     </div>
     <img src="figures/figure-gfp-overview.png" width="90%">
 </div>
