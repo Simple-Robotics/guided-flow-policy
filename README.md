@@ -20,7 +20,7 @@
 </div>
 
 ## Guided flow policy
-GFP is a flow matching based offline RL methods. It couples a multi-step flow-matching policy trained with value-aware behavior cloning and a distilled one-step actor through a bidirectional guidance mechanism. 
+GFP is a flow matching based offline RL method. It couples a multi-step flow-matching policy trained with value-aware behavior cloning and a distilled one-step actor through a bidirectional guidance mechanism. 
 This synergy enables GFP to achieve state-of-the-art performance across 144 state and pixel-based tasks from the OGBench, Minari, and D4RL benchmarks, with substantial gains on suboptimal datasets and challenging tasks.
 
 ## News & Updates
