@@ -24,6 +24,6 @@ GFP is a flow matching based offline RL method. It couples a multi-step flow-mat
 This synergy enables GFP to achieve state-of-the-art performance across 144 state and pixel-based tasks from the OGBench, Minari, and D4RL benchmarks, with substantial gains on suboptimal datasets and challenging tasks.
 
 ## News & Updates
-- **Code, coming soon**
-- **Detailed blog post, coming soon**  
-- **2025-12-03** - Release of the paper on ArXiv 
+- 🔴 **Code, coming soon** 
+- 🔴 **Detailed blog post, coming soon** 
+- 🟢 **2025-12-03** - Release of the paper on ArXiv 
