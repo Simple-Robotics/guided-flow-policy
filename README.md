@@ -12,6 +12,10 @@
                 ArXiv
             </a>
             &emsp;&emsp;
+            <a href="https://hal.science/hal-05400311">
+                HAL
+            </a>
+            &emsp;&emsp;
             <a href="https://simple-robotics.github.io/publications/guided-flow-policy">
                 Webpage
             </a>
