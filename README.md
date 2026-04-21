@@ -112,7 +112,7 @@ python main.py -m +launcher=our_slurm +opt=light_log agent=gfp env_name=cube-dou
 ```bibtex
 @inproceedings{tiofack2026guided,
     title = {Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning},
-    author = {Franki {Nguimatsia Tiofack} and Theotime {Le Hellard} and Fabian Schramm and Nicolas Perrin-Gilbert and Justin Carpentier},
+    author = {Franki {Nguimatsia Tiofack} and Th{\'e}otime {Le Hellard} and Fabian Schramm and Nicolas Perrin-Gilbert and Justin Carpentier},
     booktitle = {The Fourteenth International Conference on Learning Representations},
     year = {2026},
     url = {https://openreview.net/forum?id=EBjy1rmpv0}
