@@ -110,11 +110,10 @@ python main.py -m +launcher=our_slurm +opt=light_log agent=gfp env_name=cube-dou
 
 ## Citing Guided Flow Policy
 ```bibtex
-@inproceedings{tiofack2026guided,
-    title = {Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning},
-    author = {Franki {Nguimatsia Tiofack} and Th{\'e}otime {Le Hellard} and Fabian Schramm and Nicolas Perrin-Gilbert and Justin Carpentier},
-    booktitle = {The Fourteenth International Conference on Learning Representations},
-    year = {2026},
-    url = {https://openreview.net/forum?id=EBjy1rmpv0}
+@article{tiofack2025guided,
+  title   = {Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning},
+  author  = {Nguimatsia Tiofack, Franki and Le Hellard, Th{\'e}otime and Schramm, Fabian and Perrin-Gilbert, Nicolas and Carpentier, Justin},
+  journal = {arXiv preprint arXiv:2512.03973},
+  year    = {2025}
 }
 ```
