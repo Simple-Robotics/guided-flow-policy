@@ -24,6 +24,10 @@
     </div>
 </div>
 
+⚠️ **Temporary Note** ⚠️: we realized we made a mistake in our **BibTeX reference** below, it should now be fixed. If our work interests you, we'd be very grateful if you could double-check that you’re using a correct citation, so it appears on Google Scholar.
+
+---
+
 **Guided Flow Policy (GFP)** is an offline RL method based on flow matching. 
 It couples a multi-step flow-matching policy trained with value-aware behavior cloning and a distilled one-step actor through a bidirectional guidance mechanism. 
 This enables GFP to achieve state-of-the-art performance across 144 state and pixel-based tasks from the OGBench, Minari, and D4RL benchmarks, with substantial gains on suboptimal datasets and challenging tasks.
@@ -111,9 +115,9 @@ python main.py -m +launcher=our_slurm +opt=light_log agent=gfp env_name=cube-dou
 ## Citing Guided Flow Policy
 ```bibtex
 @article{tiofack2025guided,
-  title   = {Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning},
-  author  = {Nguimatsia Tiofack, Franki and Le Hellard, Th{\'e}otime and Schramm, Fabian and Perrin-Gilbert, Nicolas and Carpentier, Justin},
-  journal = {arXiv preprint arXiv:2512.03973},
-  year    = {2025}
+  title={Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning},
+  author={Tiofack, Franki Nguimatsia and Hellard, Th{\'e}otime Le and Schramm, Fabian and Perrin-Gilbert, Nicolas and Carpentier, Justin},
+  journal={arXiv preprint arXiv:2512.03973},
+  year={2025}
 }
 ```
