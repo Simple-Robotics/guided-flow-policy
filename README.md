@@ -24,9 +24,6 @@
     </div>
 </div>
 
-⚠️ **Temporary Note** ⚠️: we realized we made a mistake in our **BibTeX reference** below, it should now be fixed. If our work interests you, we'd be very grateful if you could double-check that you’re using a correct citation, so it appears on Google Scholar.
-
----
 
 **Guided Flow Policy (GFP)** is an offline RL method based on flow matching. 
 It couples a multi-step flow-matching policy trained with value-aware behavior cloning and a distilled one-step actor through a bidirectional guidance mechanism. 
